@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Отсчет до Нового Года</string>
+    <string name="error_wait">Не работает</string>
+    <string name="titte">Новый Год</string>
+    <string name="month">Месяцы</string>
+    <string name="day">Дни</string>
+    
+    <string name="actyvity_my_themes">Новогодние</string>
+    <string name="actyvity_simple_themes">Одноцветные</string>
+    
+    <string name="activity_theme_changed">Стиль изменен</string>
+</resources>
