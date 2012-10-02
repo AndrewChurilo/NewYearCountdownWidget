@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_HourMinSec_MarginTop">40dp</dimen> <!-- I can not give an adequate name. -->
+    <dimen name="widget_Title_MarginTop">5dp</dimen>   
+    <dimen name="widget_Day_MarginRight">108dp</dimen>
+    <dimen name="widget_MonthDay_MarginTop">30dp</dimen>
+    <dimen name="widget_Month_MarginLeft">92dp</dimen>
+    
+    <dimen name="widget_MonthDay_TextSize">13dp</dimen>
+</resources>
