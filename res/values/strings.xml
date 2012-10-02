@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">New Year Countdown</string>
+    <string name="error_wait">Do not work</string>
+    <string name="titte">New Year</string>
+    <string name="month">months</string>
+    <string name="day">days</string>
+    
+    <string name="theme_image">theme image</string>
+    
+    <string name="activity_background">Background</string>
+    
+    <string name="actyvity_my_themes">Christmas</string>    
+    <string name="actyvity_simple_themes">Monochrome</string>
+    
+    <string name="activity_theme_changed">Theme changed</string>
+</resources>
